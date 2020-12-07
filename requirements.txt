@@ -1,0 +1,11 @@
+pandas
+wordcloud
+matplotlib
+sklearn
+numpy
+scipy
+seaborn
+pyLDAvis
+pickle
+nltk
+gensim
