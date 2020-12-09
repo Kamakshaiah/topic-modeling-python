@@ -3,7 +3,7 @@
 #           need to implement dict in 'printtopicswithweights'
 
 
-def __help():
+def help():
     ''' shows help for topmodpy module '''
 
     print("FileImport - arg: 'path'; return: dataset")
