@@ -29,8 +29,7 @@ semantic analysis, text mining, topic modeling.
 # CITATION
 
 Musunuru, K. (2020). `topmodpy`: A Simple Python Script for Topic
-Modeling. Retrieved from
-[find/the/url/at/the/bottom/of/this/page](find/the/url/at/the/bottom/of/this/page){.uri}.
+Modeling. Available at <https://github.com/Kamakshaiah/topmodpy>.
 
 # BACKGROUND
 
